@@ -3,6 +3,8 @@
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
+echo '<h3>Die is Called - duc</h3>';die;
+
 define('LARAVEL_START', microtime(true));
 
 /*
